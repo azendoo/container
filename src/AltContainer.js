@@ -55,7 +55,7 @@
  *
  * Full docs available at http://goatslacker.github.io/alt/
  */
-import React from 'react'
+import React from 'react-native'
 import assign from 'object.assign'
 
 const id = it => it
